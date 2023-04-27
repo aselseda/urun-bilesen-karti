@@ -1,0 +1,1 @@
+# urun-bilesen-karti
